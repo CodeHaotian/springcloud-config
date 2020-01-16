@@ -1,2 +1,1 @@
-# springcloud-config
-Unified Management of Spring Cloud config yml
+Spring Cloud 配置进行统一管理
